@@ -1,0 +1,36 @@
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\bin\Debug\Neural Owl.exe
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\bin\Debug\Neural Owl.pdb
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\Neural Owl.csprojAssemblyReference.cache
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\Neural_Owl.Properties.Resources.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\Neural Owl.csproj.GenerateResource.cache
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\Neural Owl.csproj.CoreCompileInputs.cache
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\Neural Owl.exe
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\Neural Owl.pdb
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.CustomControls.CheckBoxPlus.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.DimForm.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.MainForm.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.AboutForm.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.MiscForm.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.ESPForm.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.PlayerForm.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.PreferencesForm.resources
+C:\Users\wolf_\source\repos\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.TriggerbotForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\Neural Owl.csprojAssemblyReference.cache
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\Neural Owl.exe
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\Neural Owl.pdb
+E:\Projects\Neural Owl\Neural Owl\bin\Debug\Neural Owl.exe
+E:\Projects\Neural Owl\Neural Owl\bin\Debug\Neural Owl.pdb
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.CustomControls.CheckBoxPlus.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.DimForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.MainForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.TriggerbotForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.PreferencesForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.AboutForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.MiscForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.ESPForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.PlayerForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\Neural Owl.csproj.GenerateResource.cache
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\Neural Owl.csproj.CoreCompileInputs.cache
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Properties.Resources.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.NOO.NOOForm.resources
+E:\Projects\Neural Owl\Neural Owl\obj\Debug\NeuralOwl.Front.Forms.Main.AimbotBasicForm.resources
